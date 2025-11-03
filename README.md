@@ -1,4 +1,4 @@
- #Task 2 — Phishing Email Analysis
+Task 2 — Phishing Email Analysis
 
 ### 📌 Objective  
 Analyze a suspicious email and identify phishing indicators such as spoofed sender, suspicious links, misleading content, and social-engineering tactics.
